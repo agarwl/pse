@@ -1,0 +1,16 @@
+- name: Rishabh Agarwal
+  image: assets/faces/rishabh.jpg
+  title: Google Research, Brain Team and Mila & Research Associate
+  url: https://agarwl.github.io/
+- name: Marlos C. Machado
+  image: assets/faces/marlos.png
+  title: Google Research, Brain Team & Research Scientist
+  url: http://mcmachado.info/
+- name: Pablo Samuel Castro
+  image: assets/faces/psc_gradient.png
+  url: https://psc-g.github.io/
+  title: Google Research, Brain Team & Staff Software Engineer 
+- name: Marc G. Bellemare
+  image: assets/faces/marc.jpg
+  url: http://www.marcgbellemare.info/
+  title: Google Research, Brain Team & Staff Research Scientist
