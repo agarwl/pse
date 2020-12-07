@@ -1,5 +1,5 @@
 
-## [offline-rl.github.io](https://offline-rl.github.io)
+## [agarwl.github.io/pse](https://agarwl.github.io/pse)
 
-Github Page for the paper "An Optimistic Perspective on Offline Reinforcement Learning".  
+Github Page for the paper "Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning".  
 
