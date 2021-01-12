@@ -1,7 +1,8 @@
 intro:
 title: Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
 description:
--  Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
+- Spotlight at International Conference on Learning Representations 2021 
+- Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
 buttons:
   Paper: 'pdfs/paper.pdf'
   # Code: 'https://github.com/google-research/batch_rl'
