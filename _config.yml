@@ -7,6 +7,6 @@ buttons:
   Paper: 'pdfs/paper.pdf'
   Slides: 'pdfs/slides.pdf'
   Poster: 'pdfs/pse_poster.pdf'
-  Openreview: 'https://openreview.net/forum?id=qda7-sVg84'
+  OpenReview: 'https://openreview.net/forum?id=qda7-sVg84'
   Contributed Talk: 'https://slideslive.com/38942373' 
   Authors: '#authors'
