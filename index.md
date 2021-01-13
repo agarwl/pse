@@ -18,7 +18,7 @@ To cite this paper, please use the following reference:
       title={Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning},
       author={Agarwal, Rishabh and Machado, Marlos C. and Castro, Pablo Samuel and Bellemare, Marc G.},
       booktitle={International Conference on Learning Representations},
-      year={2020}
+      year={2021}
     }
 
 
