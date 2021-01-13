@@ -1,7 +1,7 @@
 intro:
 title: Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
 description:
-- Spotlight at International Conference on Learning Representations 2021 
+- Spotlight at International Conference on Learning Representations (ICLR) 2021 
 - Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
 buttons:
   Paper: 'pdfs/paper.pdf'
