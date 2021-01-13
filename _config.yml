@@ -5,8 +5,8 @@ description:
 - Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
 buttons:
   Paper: 'pdfs/paper.pdf'
-  # Code: 'https://github.com/google-research/batch_rl'
   Slides: 'pdfs/slides.pdf'
   Poster: 'pdfs/pse_poster.pdf'
+  Openreview: 'https://openreview.net/forum?id=qda7-sVg84'
   Contributed Talk: 'https://slideslive.com/38942373' 
   Authors: '#authors'
