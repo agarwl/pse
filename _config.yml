@@ -4,7 +4,7 @@ description:
 - Spotlight at International Conference on Learning Representations (ICLR) 2021 
 - Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
 buttons:
-  Paper: 'pdfs/paper.pdf'
+  Paper: 'https://arxiv.org/pdf/2101.05265.pdf'
   Slides: 'pdfs/slides.pdf'
   Poster: 'pdfs/pse_poster.pdf'
   OpenReview: 'https://openreview.net/forum?id=qda7-sVg84'
