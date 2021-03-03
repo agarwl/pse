@@ -6,7 +6,8 @@ description:
 buttons:
   Paper: 'https://arxiv.org/pdf/2101.05265.pdf'
   Slides: 'pdfs/slides.pdf'
+  Code: 'https://github.com/google-research/google-research/tree/master/pse'
   Poster: 'pdfs/pse_poster.pdf'
   OpenReview: 'https://openreview.net/forum?id=qda7-sVg84'
-  Contributed Talk: 'https://slideslive.com/38942373' 
+  Contributed Talk: 'https://slideslive.com/38942373'
   Authors: '#authors'
